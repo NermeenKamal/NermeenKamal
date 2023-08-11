@@ -16,9 +16,9 @@
 ----------------------------------------------------------------------------------------------------------------------------
 - 🌱 I’m currently learning Ai & Data science. 
 - 👯 I’m looking to collaborate on a team for   
-     competitions. 
+       competitions. 
 - 📫 How to reach me: feel free to email me 
-     (nermeenkamal92@gmail.com).
+       (nermeenkamal92@gmail.com).
 
 <img src='https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=ymQdzmyYITrBnQ&pid=ImgRaw&r=0' width=700px>
 
