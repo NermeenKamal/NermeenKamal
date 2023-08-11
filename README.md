@@ -8,11 +8,13 @@ About me:
 *  Created "Restaurant" program with C++ and data structures, and Organized an event for Engineers for a Sustainable World.
 *  Passionate about tech-driven positive change.
 
+
 Skills:
 *  C++
 *  OOP
 *  Data structures
 *  Python
+
 
 - 🌱 I’m currently learning Ai & Data science. 
 - 👯 I’m looking to collaborate on A team that likes competitions. 
