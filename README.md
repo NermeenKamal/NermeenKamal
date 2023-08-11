@@ -6,8 +6,7 @@ About me:
 *  Undergraduate programmer at ACU that experienced in front-end development with HTML5 and CSS3.
 *  Developed "Space Story",Certified by NASA Space Apps, and Mentor at Atomika's front-end camp.
 *  Created "Restaurant" program with C++ and data structures, and Organized an event for Engineers for a Sustainable World.
-
-Passionate about tech-driven positive change.
+*  Passionate about tech-driven positive change.
 
 Skills:
 *  C++
