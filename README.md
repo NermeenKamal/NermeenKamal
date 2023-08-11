@@ -17,7 +17,9 @@ Skills:
 *  Data structures
 *  Python
 
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Ai & Data science. 
+- 👯 I’m looking to collaborate on A team that likes competitions. 
+- 📫 How to reach me: feel free to contact me. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NermeenKamal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/nermeenkamal
