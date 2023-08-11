@@ -12,7 +12,7 @@ Created "Restaurant" program with C++ and data structures, and Organized an even
 Passionate about tech-driven positive change.
 
 Skills:
-*C++
+*  C++
 *  OOP
 *  Data structures
 *  Python
