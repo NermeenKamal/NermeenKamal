@@ -7,15 +7,13 @@ About me:
 *  Developed "Space Story",Certified by NASA Space Apps, and Mentor at Atomika's front-end camp.
 *  Created "Restaurant" program with C++ and data structures, and Organized an event for Engineers for a Sustainable World.
 *  Passionate about tech-driven positive change.
-
-
+----------------------------------------------------------------------------------------------------------------------------
 Skills:
 *  C++
 *  OOP
 *  Data structures
 *  Python
-
-
+----------------------------------------------------------------------------------------------------------------------------
 - 🌱 I’m currently learning Ai & Data science. 
 - 👯 I’m looking to collaborate on A team that likes competitions. 
 - 📫 How to reach me: feel free to contact me. 
