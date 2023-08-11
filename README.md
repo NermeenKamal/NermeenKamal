@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Nermeen
-#### I am GitHub Readme Generator's creator
+#### I am Front-End developer
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQHO3fIdGNFhrQ/profile-displaybackgroundimage-shrink_350_1400/0/1691346741075?e=1697068800&v=beta&t=OqX16nZDajGtNM0ek4aVbYByhS4jUg-Q4RKXGXruVkE)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
