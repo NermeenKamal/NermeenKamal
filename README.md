@@ -2,13 +2,13 @@
 #### A Front-End developer
 ![I am Front-End developer](https://media.licdn.com/dms/image/D4D16AQHO3fIdGNFhrQ/profile-displaybackgroundimage-shrink_350_1400/0/1691346741075?e=1697068800&v=beta&t=OqX16nZDajGtNM0ek4aVbYByhS4jUg-Q4RKXGXruVkE)
 
-About me:
+### About me: -
 *  Undergraduate programmer at ACU that experienced in front-end development with HTML5 and CSS3.
 *  Developed "Space Story",Certified by NASA Space Apps, and Mentor at Atomika's front-end camp.
 *  Created "Restaurant" program with C++ and data structures, and Organized an event for Engineers for a Sustainable World.
 *  Passionate about tech-driven positive change.
 ----------------------------------------------------------------------------------------------------------------------------
-Skills:
+### Skills: -
 *  C++
 *  OOP
 *  Data structures
