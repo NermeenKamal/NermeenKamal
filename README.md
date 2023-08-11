@@ -17,9 +17,9 @@ Skills:
 *  Data structures
 *  Python
 
--- 🌱 I’m currently learning Ai & Data science. 
--- 👯 I’m looking to collaborate on A team that likes competitions. 
--- 📫 How to reach me: feel free to contact me. 
+- 🌱 I’m currently learning Ai & Data science. 
+- 👯 I’m looking to collaborate on A team that likes competitions. 
+- 📫 How to reach me: feel free to contact me. 
 
 <img src='https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=ymQdzmyYITrBnQ&pid=ImgRaw&r=0' width=300px>
 
