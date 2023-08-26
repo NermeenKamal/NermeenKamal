@@ -15,11 +15,15 @@
 *  Data structures
 *  Python
 ----------------------------------------------------------------------------------------------------------------------------
-- 🌱 I’m currently learning Ai & Data science. 
-- 👯 I’m looking to collaborate on a team for   
-       competitions. 
-- 📫 How to reach me: feel free to email me 
-       (nermeenkamal92@gmail.com).
+- 🔭 I’m currently working on **TechVerse**
+  
+- 🌱 I’m currently learning **Ai & Data science**.
+  
+- 💬 Ask me about **C++, Python, Front-end**
+
+- 📫 How to reach me **nermeenkamal92@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1PhbM5zYMsGsXbEAQ30Evf1-UjOD3PO5e?usp=drive_link](https://drive.google.com/drive/folders/1PhbM5zYMsGsXbEAQ30Evf1-UjOD3PO5e?usp=drive_link)
 
 <img src='https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=ymQdzmyYITrBnQ&pid=ImgRaw&r=0' width=700px>
 
