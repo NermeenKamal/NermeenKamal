@@ -1,12 +1,12 @@
-## Hi there 👋, my name is Nermeen
+## Hi there 👋, It's Nermeen
 ### A Front-End developer
 ![I am Front-End developer](https://media.licdn.com/dms/image/D4D16AQHO3fIdGNFhrQ/profile-displaybackgroundimage-shrink_350_1400/0/1691346741075?e=1697068800&v=beta&t=OqX16nZDajGtNM0ek4aVbYByhS4jUg-Q4RKXGXruVkE)
 
 ### About me: -
-*  Undergraduate programmer at ACU that experienced in front-end development with HTML5 and CSS3.
-*  Developed "Space Story",Certified by NASA Space Apps, and Mentor at Atomika's front-end camp.
-*  Created "Restaurant" program with C++ and data structures, and Organized an event for Engineers for a Sustainable World.
-*  Passionate about tech-driven positive change.
+* A programming student at ACU, a front-end mentor.
+* I've worked on 3 different systems using C++, OOP, Data structure, and Design patterns.
+* Interested in Artificial Intelligence and Web Development.
+* Preference for practical training over courses; currently seeking an internship for skill and knowledge enhancement.
 ----------------------------------------------------------------------------------------------------------------------------
 ### Skills: -
 *  C++
