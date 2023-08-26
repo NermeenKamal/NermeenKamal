@@ -1,5 +1,6 @@
 ## Hi there 👋, It's Nermeen
 ### A Front-End developer
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nermeenkamal" alt="nermeenkamal" /></a> </p>
 ![I am Front-End developer](https://media.licdn.com/dms/image/D4D16AQHO3fIdGNFhrQ/profile-displaybackgroundimage-shrink_350_1400/0/1691346741075?e=1697068800&v=beta&t=OqX16nZDajGtNM0ek4aVbYByhS4jUg-Q4RKXGXruVkE)
 
 ### About me: -
@@ -22,7 +23,7 @@
 
 <img src='https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=ymQdzmyYITrBnQ&pid=ImgRaw&r=0' width=700px>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='70px'>](https://github.com/NermeenKamal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='70px'>](https://www.linkedin.com/in/nermeen-kamal-407b9a22a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='70px'>](https://www.facebook.com/profile.php?id=100028902976659&mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' width='70px'>](https://www.instagram.com/nermeenk33.3/)  
+
 
 
 
