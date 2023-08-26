@@ -1,6 +1,6 @@
 ## Hi there 👋, It's Nermeen
 ### A Front-End developer
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nermeenkamal" alt="nermeenkamal" /></a> </p>
+
 ![I am Front-End developer](https://media.licdn.com/dms/image/D4D16AQHO3fIdGNFhrQ/profile-displaybackgroundimage-shrink_350_1400/0/1691346741075?e=1697068800&v=beta&t=OqX16nZDajGtNM0ek4aVbYByhS4jUg-Q4RKXGXruVkE)
 
 ### About me: -
