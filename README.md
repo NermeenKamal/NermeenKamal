@@ -1,8 +1,7 @@
 ## Hi there 👋, It's Nermeen
 ### A Front-End developer
 
-![I am Front-End developer]
-<img src="https://www.facebook.com/photo/?fbid=1123609305279158&set=a.111730899800342" alt="Nermeen" title="Nermeen">
+![I am Front-End developer](https://www.facebook.com/photo/?fbid=1123609305279158&set=a.111730899800342)
 
 ### About me: -
 * A programming student at ACU, a front-end mentor.
