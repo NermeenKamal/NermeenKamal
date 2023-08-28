@@ -1,12 +1,16 @@
 <p align="center"><img src='https://media.licdn.com/dms/image/D4D16AQFuBJkk4gSc9Q/profile-displaybackgroundimage-shrink_350_1400/0/1693224398405?e=1698883200&v=beta&t=cQE-WPydghOpUxU_EaSIkASWAFMTcGFmkMCNNh-sB0o' width=700px></p>
 <h1 align="center">Hi there 👋, It's Nermeen</h1>
  <h3 align="center">A Front-End developer</h3>
-<p align="right"><img src='https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=ymQdzmyYITrBnQ&pid=ImgRaw&r=0' width=500px></p>
+ 
 ### About me: -
 * A programming student at ACU, a front-end mentor.
 * I've worked on 3 different systems using C++, OOP, Data structure, and Design patterns.
 * Interested in Artificial Intelligence and Web Development.
 * Preference for practical training over courses; currently seeking an internship for skill and knowledge enhancement.
+
+<p align="right"><img src='https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=ymQdzmyYITrBnQ&pid=ImgRaw&r=0' width=500px></p>
+
+
 ----------------------------------------------------------------------------------------------------------------------------
 ### Skills: -
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
