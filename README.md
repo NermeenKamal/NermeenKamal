@@ -1,7 +1,6 @@
 ## Hi there 👋, It's Nermeen
 ### A Front-End developer
-
-![I am Front-End developer](https://www.mediafire.com/view/smwrjdpc4vf6ypb/369733683_1123609358612486_4674304806780120432_n.jpg/file)
+<img src='https://www.mediafire.com/view/smwrjdpc4vf6ypb/369733683_1123609358612486_4674304806780120432_n.jpg/file' width=700px>
 
 ### About me: -
 * A programming student at ACU, a front-end mentor.
