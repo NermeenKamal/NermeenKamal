@@ -1,8 +1,7 @@
 <img src='https://media.licdn.com/dms/image/D4D16AQFuBJkk4gSc9Q/profile-displaybackgroundimage-shrink_350_1400/0/1693224398405?e=1698883200&v=beta&t=cQE-WPydghOpUxU_EaSIkASWAFMTcGFmkMCNNh-sB0o' width=700px>
-
-                                                   # Hi there 👋, It's Nermeen
-## A Front-End developer
-
+<h1 align="center">Hi there 👋, It's Nermeen</h1>
+ <h3 align="center">A Front-End developer</h3>
+<p align="left"><img src='https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=ymQdzmyYITrBnQ&pid=ImgRaw&r=0' width=700px></p>
 ### About me: -
 * A programming student at ACU, a front-end mentor.
 * I've worked on 3 different systems using C++, OOP, Data structure, and Design patterns.
@@ -23,10 +22,6 @@
 - 📫 How to reach me **nermeenkamal92@gmail.com**
 
 - 📄 Know about my experiences [CV](https://drive.google.com/drive/folders/1PhbM5zYMsGsXbEAQ30Evf1-UjOD3PO5e?usp=drive_link)
-
-<img src='https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=ymQdzmyYITrBnQ&pid=ImgRaw&r=0' width=700px>
-
-
 
 
 
