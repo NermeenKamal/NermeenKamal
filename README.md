@@ -1,6 +1,6 @@
 <p align="center"><img src='https://media.licdn.com/dms/image/D4D16AQFuBJkk4gSc9Q/profile-displaybackgroundimage-shrink_350_1400/0/1693224398405?e=1698883200&v=beta&t=cQE-WPydghOpUxU_EaSIkASWAFMTcGFmkMCNNh-sB0o' width=700px></p>
 <h1 align="center">Hi there 👋, It's Nermeen</h1>
- <h3 align="center">A Front-End developer</h3>
+ <h2 align="center">A Front-End developer</h2>
  
 ### About me: -
 * A programming student at ACU, a front-end mentor.
@@ -34,7 +34,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: -</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nermeen-kamal-407b9a22a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nermeen-kamal-407b9a22a" height="30" width="40" /></a>
 <a href="https://fb.com/nermeenkamaleldin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nermeenkamaleldin" height="30" width="40" /></a>
