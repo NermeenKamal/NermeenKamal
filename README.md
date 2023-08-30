@@ -1,6 +1,6 @@
 <p align="center"><img src='https://media.licdn.com/dms/image/D4D16AQFuBJkk4gSc9Q/profile-displaybackgroundimage-shrink_350_1400/0/1693224398405?e=1698883200&v=beta&t=cQE-WPydghOpUxU_EaSIkASWAFMTcGFmkMCNNh-sB0o' width=700px></p>
 <h1 align="center">Hi there 👋, It's Nermeen</h1>
- <h2 align="center">A Front-End developer</h2>
+ <h2 align="center">A Front-End Developer</h2>
  
 ### About me: -
 * A programming student at ACU, a front-end mentor.
