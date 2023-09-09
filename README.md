@@ -1,4 +1,4 @@
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![Linkedin Background](https://github.com/NermeenKamal/NermeenKamal/assets/114883845/05e7e202-96cd-48fc-b7ae-0432fc397d4d)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![Linkedin Cover](https://github.com/NermeenKamal/NermeenKamal/assets/114883845/89886d17-6ce8-4ecc-8267-0f72dcc4b132)
 
 <h1 align= "center"> Hi there 👋, It's Nermeen</h1>
  <h2 align="center">A Front-End Developer</h2>
