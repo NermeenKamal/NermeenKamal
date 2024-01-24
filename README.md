@@ -21,7 +21,7 @@
 
 
 
-- 🔭 I’m currently working on **TechVerse**
+- 🔭 I’m currently working in **Tutoruu**
   
 - 🌱 I’m currently learning **Ai & Software development**.
   
