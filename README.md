@@ -15,19 +15,21 @@
 <img align="right" src='https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=ymQdzmyYITrBnQ&pid=ImgRaw&r=0' width=400px>
 
 
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  width="40" height="40"/> </a>   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png" alt="c#" width="37" height="37"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  width="40" height="40"/> </a>   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://images.app.goo.gl/H6471u3JokNxmBrD9" alt="js" width="40" height="40"/> </a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png" alt="c#" width="37" height="37"/> </a> </p>
 
 
 
 - 🔭 I’m currently working on **TechVerse**
   
-- 🌱 I’m currently learning **Ai & Data science**.
+- 🌱 I’m currently learning **Ai & Software development**.
   
-- 💬 Ask me about **C++, Python, Front-end**
+- 💬 Ask me about **TechVerse (My Startup)**
 
 - 📫 How to reach me **nermeenkamal92@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/drive/folders/1PhbM5zYMsGsXbEAQ30Evf1-UjOD3PO5e?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/13CCCsH1dnz_LpCLQKA1-tQ6imLmUqDBR/view?usp=drivesdk)
 
 
 
