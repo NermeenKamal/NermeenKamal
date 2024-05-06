@@ -68,7 +68,7 @@
 
 - 📫 How to reach me **nermeenkamal92@gmail.com**
 
-- 🌐 Check out my portfolio [Here](https://nermeenkamal.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nermeenkamal.github.io/Portfolio/)
 ----------------------------------------------------------------------------------------------------------------------------
 
 
