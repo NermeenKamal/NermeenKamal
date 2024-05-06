@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  width="40" height="40"/> 
 </a>
   <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer"> 
-    <img src="[https://img.icons8.com/ios/452/object-oriented-programming.png](https://static.vecteezy.com/system/resources/previews/026/339/313/original/oop-icon-vector.jpg)" alt="oop" width="40" height="40"/> 
+    <img src="https://static.vecteezy.com/system/resources/previews/026/339/313/original/oop-icon-vector.jpg" alt="oop" width="40" height="40"/> 
   </a>
   <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/ios/452/data-configuration.png" alt="data-structure" width="40" height="40"/> 
