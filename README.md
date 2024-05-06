@@ -50,7 +50,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
  </a>
   <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/IntelCorei9-12900K_large_5.png" alt="assembly" width="40" height="40"/> 
+    <img src="https://cdn.hackr.io/uploads/topics/1507565940Mt96nRTIF8.png" alt="assembly" width="40" height="40"/> 
   </a>
  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/> 
