@@ -49,6 +49,9 @@
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
  </a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
   <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.hackr.io/uploads/topics/1507565940Mt96nRTIF8.png" alt="assembly" width="40" height="40"/> 
   </a>
