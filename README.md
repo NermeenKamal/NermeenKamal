@@ -1,5 +1,3 @@
-<h2 align="left">Hi there 👋! It's Nermeen, a Front-End Developer from ACU.</h2>
-
 
 <h1 align="center">Hi there 👋, It's Nermeen</h1>
 <h2 align="center">A Front-End Developer</h2>
