@@ -5,10 +5,14 @@
  
 ### About me: -
 * A programming student at ACU, a front-end mentor.
-* Developed Many Front-end websites, [My Portfolio]("https://nermeenkamal.github.io/Portfolio/")
 * I've worked on 3 different systems using C++, OOP, Data structure, and Design patterns.
 * Interested in Artificial Intelligence and Web Development.
 * Preference for practical training over courses; currently seeking an internship for skill and knowledge enhancement.
+* Developed many Front-end websites such as:
+  - Flower store
+  - Sunflower animation
+  - Cards-phones
+  - TechVerse
 
 ----------------------------------------------------------------------------------------------------------------------------
 ### Skills: -
