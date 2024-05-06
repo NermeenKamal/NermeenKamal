@@ -5,6 +5,7 @@
  
 ### About me: -
 * A programming student at ACU, a front-end mentor.
+* Developed Many Front-end websites, [My Portfolio]("https://nermeenkamal.github.io/Portfolio/")
 * I've worked on 3 different systems using C++, OOP, Data structure, and Design patterns.
 * Interested in Artificial Intelligence and Web Development.
 * Preference for practical training over courses; currently seeking an internship for skill and knowledge enhancement.
@@ -34,9 +35,15 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
  </a>
- <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png" alt="c#" width="37" height="37"/> 
- </a> 
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+ </a>
+ <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+ </a>
+ <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+ </a>
 </p>
 
 - 🔭 I’m currently working in **Tutoruu**
