@@ -103,4 +103,4 @@
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'>
 </a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NermeenKamal)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
