@@ -120,10 +120,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NermeenKamal&layout=compact)
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nermeenkamal&show_icons=true&locale=en&layout=compact" alt="nermeenkamal" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nermeenkamal&show_icons=true&locale=en" alt="nermeenkamal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nermeenkamal&" alt="nermeenkamal" /></p>
