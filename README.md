@@ -1,8 +1,6 @@
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Linkedin Cover](https://github.com/NermeenKamal/NermeenKamal/assets/114883845/89886d17-6ce8-4ecc-8267-0f72dcc4b132)
-
 <h1 align= "center"> Hi there 👋, It's Nermeen</h1>
- <h2 align="center">A Front-End Developer</h2>
- 
+<h2 align="center">A Front-End Developer</h2>
+
 ### About me: -
 * A programming student at ACU, a front-end mentor.
 * I've worked on 3 different systems using C++, OOP, Data structure, and Design patterns.
@@ -94,39 +92,4 @@
 <h3 align="left">Connect with me: -</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nirmn-kamal" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nermeen-kamal-407b9a22a" height="30" width="40" />
-</a>
-<a href="https://instagram.com/nermeen_kamaleldin" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nermeen_kamaleldin" height="30" width="40" />
-</a>
-<a href="https://www.behance.net/nermeen_kamal" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nermeen_kamal" height="30" width="40" />
-</a>
-<a href="https://codeforces.com/profile/__nermeen__" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__nermeen__" height="30" width="40" />
-</a>
-</p>
-
-----------------------------------------------------------------------------------------------------------------------------
-
-
-
-<a href='https://docs.github.com/en/developers'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
-</a> 
-<a href='https://github.com/pricing'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'>
-</a> 
-<a href='https://stars.github.com/'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
-</a> 
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'>
-</a> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NermeenKamal&layout=compact)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nermeenkamal&show_icons=true&locale=en" alt="nermeenkamal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nermeenkamal&" alt="nermeenkamal" /></p>
-
+  <img align="center" src="https://raw.githubusercontent.com/rahul
