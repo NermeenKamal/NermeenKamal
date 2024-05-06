@@ -20,9 +20,9 @@
 ----------------------------------------------------------------------------------------------------------------------------
 ### Skills: -
 
-<div align="right">
-  <img src="https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=ymQdzmyYITrBnQ&pid=ImgRaw&r=0" width="400px" />
-</div>
+
+<img align="right" src='https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=ymQdzmyYITrBnQ&pid=ImgRaw&r=0' width=400px>
+
 
 <p align="left"> 
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
