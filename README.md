@@ -49,6 +49,13 @@
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
  </a>
+ 
+ <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank" rel="noreferrer"> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Intel_inside_logo.png" alt="assembly" width="40" height="40"/> 
+ </a>
+ <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/> 
+ </a>
 </p>
 
 - 🔭 I’m currently working in **Tutoruu**
