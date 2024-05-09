@@ -1,0 +1,40 @@
+name: Generate Snake Game from GitHub Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs everyday at 00:00 UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Generate snake game
+      uses: Platane/snk@v3.2.0
+      with:
+        # GitHub username to read the contribution graph from (**required**)
+        github_user_name: NermeenKamal
+
+        # List of files to generate.
+        # One file per line. Each output can be customized with options as a query string.
+        #
+        # Supported options:
+        # - palette:     A preset of color, one of [github, github-dark, github-light]
+        # - color_snake: Color of the snake
+        # - color_dots:  Comma-separated list of dots color.
+        #                The first one is 0 contribution, then it goes from the low contribution to the highest.
+        #                Exactly 5 colors are expected.
+        outputs: |
+          dist/github-snake.svg
+          dist/github-snake-dark.svg?palette=github-dark
+          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+    - name: Commit generated files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add dist/
+        git commit -m "Generate snake game"
+        git push
