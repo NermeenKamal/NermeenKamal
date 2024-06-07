@@ -13,6 +13,7 @@
 * Preference for practical training over courses; currently seeking an internship for skill and knowledge enhancement.
 * Developed many Front-end websites such as:
   - Flower store
+  - Calculator
   - Sunflower animation
   - Cards-phones
   - TechVerse
