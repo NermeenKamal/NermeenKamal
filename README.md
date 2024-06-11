@@ -124,14 +124,11 @@
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'>
 </a> 
 
-
 -------------------------------------------
+
 <p float="left">
   <img src="https://wakatime.com/share/@nrmn33/3aa71efe-2256-4469-80dc-1967e2b1afff.svg" width=470px/>
   <img src="https://wakatime.com/share/@nrmn33/a1c30c9d-aeab-4dc3-b2ef-36dd5ec30f27.svg" width=470px/>
 </p>
 
-
-
-
-  <img src="https://github.com/NermeenKamal/NermeenKamal/blob/main/dist/github-snake-dark.svg" width=1260px>
+<img src="https://github.com/NermeenKamal/NermeenKamal/blob/main/dist/github-snake-dark.svg" width=1260px>
