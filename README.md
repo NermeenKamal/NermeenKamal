@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, It's Nermeen</h1>
+<h1 align="center">Hi 👋, It's Nermeen</h1>
 <h2 align="center">  Front-End Developer</h2>
 
 <div align="left">
@@ -7,15 +7,15 @@
 </div>
 
 ### About me: -
-* A programming student at ACU, a front-end mentor.
-* I've worked on 3 different systems using C++, OOP, Data structure, and Design patterns.
+* Programming student at ACU.
+* Worked on 3 different systems using C++, OOP, Data structure, and Design patterns.
 * Interested in Artificial Intelligence and Web Development.
 * Preference for practical training over courses; currently seeking an internship for skill and knowledge enhancement.
 * Developed many Front-end websites such as:
   - Flower store
   - Calculator
-  - Sunflower animation
-  - Cards-phones
+  - ChanZel
+  - Food4you
   - TechVerse
 
 ----------------------------------------------------------------------------------------------------------------------------
