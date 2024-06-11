@@ -127,11 +127,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nermeenkamal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-________________
-  <figure><embed src="https://wakatime.com/share/@nrmn33/3aa71efe-2256-4469-80dc-1967e2b1afff.svg"></embed></figure>
-</div>
+
+  <img src="https://wakatime.com/share/@nrmn33/3aa71efe-2256-4469-80dc-1967e2b1afff.svg" width=600px/>
+  <img src="https://wakatime.com/share/@nrmn33/a1c30c9d-aeab-4dc3-b2ef-36dd5ec30f27.svg" width=600px/>
+
 
 
 
