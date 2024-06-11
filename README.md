@@ -12,11 +12,11 @@
 * Interested in Artificial Intelligence and Web Development.
 * Preference for practical training over courses; currently seeking an internship for skill and knowledge enhancement.
 * Developed many Front-end websites such as:
-  - Flower store
-  - Calculator
-  - ChanZel
-  - Food4you
-  - TechVerse
+  - [Flower store](https://nermeenkamal.github.io/Flower-Store-FrontEnd/)
+  - [Calculator](https://nermeenkamal.github.io/Calculator/)
+  - [ChanZel](https://nermeenkamal.github.io/Ecommerce-Website-ChanZel/)
+  - [Food4you](https://nermeenkamal.github.io/Food4you/)
+  - [TechVerse](https://nermeenkamal.github.io/TechVerse/)
 
 ----------------------------------------------------------------------------------------------------------------------------
 ### Skills: -
