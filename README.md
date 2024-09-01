@@ -12,6 +12,7 @@
 * Interested in Artificial Intelligence and Web Development.
 * Preference for practical training over courses; currently seeking an internship for skill and knowledge enhancement.
 * Developed many Front-end websites such as:
+  - [Fasa7a - فَصَاحَة](https://nermeenkamal.github.io/Fasa7a/)
   - [Flower store](https://nermeenkamal.github.io/Flower-Store-FrontEnd/)
   - [Calculator](https://nermeenkamal.github.io/Calculator/)
   - [ChanZel](https://nermeenkamal.github.io/Ecommerce-Website-ChanZel/)
