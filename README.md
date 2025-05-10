@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, It's Nermeen</h1>
-<h2 align="center">  Front-End Developer</h2>
+<h2 align="center">  Back-End Developer</h2>
 
 <div align="left">
   <img src="https://github.com/NermeenKamal/NermeenKamal/assets/114883845/89886d17-6ce8-4ecc-8267-0f72dcc4b132" alt="Linkedin Cover" />
