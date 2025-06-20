@@ -7,11 +7,11 @@
 </div>
 
 ### About me: -
-* Programming student at ACU.
-* Worked on 3 different systems using C++, OOP, Data structure, and Design patterns.
-* Interested in Artificial Intelligence and Web Development.
-* Preference for practical training over courses; currently seeking an internship for skill and knowledge enhancement.
+* Computer Science graduate with a strong back-end focus, skilled in Laravel, PHP, MySQL, and RESTful APIs.
+* Passionate about practical development, API design, and integrating cloud services like Firebase and Cloudinary.
+* Looking for an internship or junior role to grow in real-world backend projects.
 * Developed many Front-end websites such as:
+  - [Therapist-AI-Mobile-App](https://github.com/NermeenKamal/Therapist-AI-MobileApp)
   - [Fasa7a - فَصَاحَة](https://nermeenkamal.github.io/Fasa7a/)
   - [Flower store](https://nermeenkamal.github.io/Flower-Store-FrontEnd/)
   - [Calculator](https://nermeenkamal.github.io/Calculator/)
