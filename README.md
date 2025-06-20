@@ -10,7 +10,7 @@
 * Computer Science graduate with a strong back-end focus, skilled in Laravel, PHP, MySQL, and RESTful APIs.
 * Passionate about practical development, API design, and integrating cloud services like Firebase and Cloudinary.
 * Looking for an internship or junior role to grow in real-world backend projects.
-* Developed many Front-end websites such as:
+* Developed many websites such as:
   - [Therapist-AI-Mobile-App](https://github.com/NermeenKamal/Therapist-AI-MobileApp)
   - [Fasa7a - فَصَاحَة](https://nermeenkamal.github.io/Fasa7a/)
   - [Flower store](https://nermeenkamal.github.io/Flower-Store-FrontEnd/)
