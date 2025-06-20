@@ -82,13 +82,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/> 
   </a>
 </p>
-
-- 🔭 I’m currently working in **Tutoruu**
   
-- 🌱 I’m currently learning **Ai & Software development**.
+- 🌱 I’m currently learning **PHP Testing**.
   
-- 💬 Ask me about **TechVerse (My Startup)**
-
 - 📫 How to reach me **nermeenkamal92@gmail.com**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://nermeenkamal.github.io/Portfolio/)
