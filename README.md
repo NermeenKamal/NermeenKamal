@@ -3,7 +3,7 @@
 <h2 align="center">  Full-Stack Developer</h2>
 
 <div align="left">
-  <img src="https://github.com/NermeenKamal/NermeenKamal/assets/114883845/89886d17-6ce8-4ecc-8267-0f72dcc4b132" alt="Linkedin Cover" />
+  <img src="https://github.com/NermeenKamal/NermeenKamal/issues/1" alt="Linkedin Cover" />
 </div>
 
 ### About me: -
