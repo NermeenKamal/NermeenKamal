@@ -46,8 +46,8 @@
   
   ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=NermeenKamal&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
   </div>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=NermeenKamal&theme=highcontrast" height="125"/>
 <br>
-
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NermeenKamal&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
     <img src="https://streak-stats.demolab.com/?user=NermeenKamal&theme=highcontrast" height="125"/>
