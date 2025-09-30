@@ -1,10 +1,3 @@
-<p align="center">
-    <a href="https://gh-most-followed.pages.dev/egypt">
-      <img src="https://img.shields.io/badge/23ᵗʰ Most Followed User 🇪🇬-202525?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://committers.top/egypt">
-      <img src="https://img.shields.io/badge/18ᵗʰ Most Active User 🇪🇬-202525?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
-  </p>
-
 <h1 align="center">Hi 👋, I'm Nermeen Kamal</h1>
 
 <h2 align="center">Full Stack Developer | PHP & Laravel Enthusiast</h2>
@@ -24,7 +17,7 @@
   </p>
 
   <p>
-    <a href="https://drive.google.com/file/d/your-cv-link/view?usp=drivesdk">
+    <a href="https://drive.google.com/file/d/12KV-mbu1qfcZeWc6hq_6ge7IS17aly_8/view?usp=drivesdk">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
     <a href="https://nermeen-portfolio-link.com">
       <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
@@ -32,12 +25,10 @@
 
   #### `📤 Connect & Competitive Programming`
   <p align="left">
-    <a href="mailto:nermeen.kamal@example.com">
+    <a href="mailto:nermeenkamal92@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="43"/></a> &nbsp;
     <a href="https://www.linkedin.com/in/nermeen-kamal">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/></a> &nbsp;
-    <a href="https://www.whatsapp.com/channel/your-whatsapp-link">
-      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="48"/></a> &nbsp;
     <a href="https://codeforces.com/profile/NermeenKamal">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="48"/></a> &nbsp;
     <a href="https://leetcode.com/u/NermeenKamal/">
