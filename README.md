@@ -50,6 +50,10 @@
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NermeenKamal&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
     <img src="https://streak-stats.demolab.com/?user=NermeenKamal&theme=highcontrast" height="125"/>
+    <a href="https://github.com/NermeenKamal/Therapist-AI-MobileApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NermeenKamal&repo=Therapist-AI-MobileApp&theme=highcontrast" height="125"/>
+</a>
+
   </p>
 
   <p align="left">
