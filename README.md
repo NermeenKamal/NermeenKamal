@@ -7,12 +7,12 @@
 </div>
 <br>
   <p align="center">
-    <a href="https://www.google.com.eg/search?q=Nermeen+Kamal"> <!-- Google Me -->
+    <a href="https://github.com/NermeenKamal?tab=repositories&q=&type=public&language=&sort="> <!-- Google Me -->
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
   </p>
 
   <p>
-    <a href="https://www.google.com.eg/search?q=Nermeen+Kamal"> <!-- Google Me -->
+    <a href="https://nermeenkamal.github.io/Portfolio/"> <!-- Google Me -->
       <img src="https://komarev.com/ghpvc/?username=NermeenKamal&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
   </p>
 
