@@ -1,17 +1,10 @@
-
-<h1 align="center">Hi 👋, It's Nermeen</h1>
-<h2 align="center">Full Stack Web Developer</h2>
-
+<h1 align="center">Hi 👋, I'm Nermeen Kamal</h1>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 <div align="left">
   <img src="https://github.com/user-attachments/assets/16877378-cf5f-41ab-865b-29e9099e0e22" alt="Linkedin Cover" />
 </div>
-
-
-<h1 align="center">Hi, I'm Nermeen Kamal</h1>
-<h3 align="center">Software Engineer | Full Stack Developer</h3>
-
 <p align="center">
-  <a href="https://your-cv-link.com">📄 My CV</a> •
+  <a href="https://drive.google.com/file/d/12KV-mbu1qfcZeWc6hq_6ge7IS17aly_8/view?usp=drive_link">📄 My CV</a> •
   <a href="https://your-portfolio-link.com">🌐 My Portfolio</a>
 </p>
 
