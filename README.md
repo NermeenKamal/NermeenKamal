@@ -19,7 +19,7 @@
   <p>
     <a href="https://drive.google.com/file/d/12KV-mbu1qfcZeWc6hq_6ge7IS17aly_8/view?usp=drivesdk">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://nermeen-portfolio-link.com">
+    <a href="https://nermeenkamal.github.io/Portfolio/">
       <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
   </p>
 
