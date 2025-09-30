@@ -1,75 +1,67 @@
+<p align="center">
+    <a href="https://gh-most-followed.pages.dev/egypt">
+      <img src="https://img.shields.io/badge/23ᵗʰ Most Followed User 🇪🇬-202525?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://committers.top/egypt">
+      <img src="https://img.shields.io/badge/18ᵗʰ Most Active User 🇪🇬-202525?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
+  </p>
+
 <h1 align="center">Hi 👋, I'm Nermeen Kamal</h1>
-<h3 align="center">Software Engineer | Full Stack Developer</h3>
+
+<h2 align="center">Full Stack Developer | PHP & Laravel Enthusiast</h2>
+<br>
 <div align="left">
   <img src="https://github.com/user-attachments/assets/16877378-cf5f-41ab-865b-29e9099e0e22" alt="Linkedin Cover" />
 </div>
-<p align="center">
-  <a href="https://drive.google.com/file/d/12KV-mbu1qfcZeWc6hq_6ge7IS17aly_8/view?usp=drive_link">📄 My CV</a> •
-  <a href="https://your-portfolio-link.com">🌐 My Portfolio</a>
-</p>
+<br>
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=Nermeen+Kamal"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+  </p>
 
----
+  <p>
+    <a href="https://www.google.com.eg/search?q=Nermeen+Kamal"> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=NermeenKamal&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+  </p>
 
-### 👩‍💻 About Me
-- 🎓 Computer Science Student / Backend Developer (Laravel, PHP, MySQL)  
-- 🚀 Interested in AI, Computer Vision, and Backend Systems  
-- 🌱 Currently improving in Full Stack Development  
-- 💬 Ask me about **Laravel, PHP, MySQL, Firebase, APIs**  
-- 📫 Reach me: **your-email@example.com**
+  <p>
+    <a href="https://drive.google.com/file/d/your-cv-link/view?usp=drivesdk">
+      <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://nermeen-portfolio-link.com">
+      <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
+  </p>
 
----
+  #### `📤 Connect & Competitive Programming`
+  <p align="left">
+    <a href="mailto:nermeen.kamal@example.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="43"/></a> &nbsp;
+    <a href="https://www.linkedin.com/in/nermeen-kamal">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/></a> &nbsp;
+    <a href="https://www.whatsapp.com/channel/your-whatsapp-link">
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="48"/></a> &nbsp;
+    <a href="https://codeforces.com/profile/NermeenKamal">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="48"/></a> &nbsp;
+    <a href="https://leetcode.com/u/NermeenKamal/">
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="48"/></a>
+  </p>
 
-### 🔗 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github" />
-  </a>
-</p>
+#### `🛠️ Top Technical Skills`
 
----
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,mysql,postman,swagger,git,github,html,css,js,bootstrap,tailwind,firebase,docker"/>
+  </p>
 
-### 🛠️ Languages & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</p>
+#### `🏆 GitHub Trophies`
+  <p align="left">
+  
+  ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=NermeenKamal&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
+  </div>
+<br>
 
----
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NermeenKamal&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+    <img src="https://streak-stats.demolab.com/?user=NermeenKamal&theme=highcontrast" height="125"/>
+  </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub" alt="trophies" />
-</p>
-
----
-
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet&style=flat-square" alt="views"/>
-</p>
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
