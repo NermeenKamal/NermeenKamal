@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nermeen Kamal</h1>
 
-<h2 align="center">Full Stack Developer | PHP & Laravel Enthusiast</h2>
+<h2 align="center">Jr. Full Stack Web Developer | UI/UX Designer</h2>
 <br>
 <div align="left">
   <img src="https://github.com/user-attachments/assets/16877378-cf5f-41ab-865b-29e9099e0e22" alt="Linkedin Cover" />
