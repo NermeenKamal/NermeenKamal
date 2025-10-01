@@ -30,8 +30,7 @@
     <a href="https://www.linkedin.com/in/nirmn-kamal/">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/></a> &nbsp;
     <a href="https://www.behance.net/nermeen_kamal">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" style="height:32px; object-fit:contain;"/>
-  </a> &nbsp;
+    <img src="https://th.bing.com/th/id/OIP.Ffb2JFAvRiaqmCpLLHOq0QHaHa?w=166&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" style="height:48px; object-fit:contain;"/></a> &nbsp;
     <a href="https://codeforces.com/profile/__Nermeen__">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="48"/></a> &nbsp;
     <a href="https://leetcode.com/u/Nermeen_Kamal/">
@@ -53,12 +52,8 @@
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NermeenKamal&layout=compact&langs_count=6&theme=highcontrast" height="125"/>
     <img src="https://streak-stats.demolab.com/?user=NermeenKamal&theme=highcontrast" height="125"/>
-    <a href="https://github.com/NermeenKamal/Therapist-AI-MobileApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NermeenKamal&repo=Therapist-AI-MobileApp&theme=highcontrast" height="125"/>
-</a>
-<a href="https://github.com/NermeenKamal/Fasa7a">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NermeenKamal&repo=Fasa7a&theme=highcontrast" height="125"/>
-</a>
+    <a href="https://github.com/NermeenKamal/Therapist-AI-MobileApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NermeenKamal&repo=Therapist-AI-MobileApp&theme=highcontrast" height="125"/></a>
+    <a href="https://github.com/NermeenKamal/Fasa7a"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NermeenKamal&repo=Fasa7a&theme=highcontrast" height="125"/></a>
 
   </p>
 
