@@ -40,7 +40,7 @@
 #### `🛠️ Top Technical Skills`
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,mysql,postman,swagger,git,github,html,css,js,bootstrap,tailwind,firebase,docker"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,mysql,postman,insomnia,git,github,html,css,js,bootstrap,tailwind,firebase,docker"/>
   </p>
 
 #### `🏆 GitHub Trophies`
